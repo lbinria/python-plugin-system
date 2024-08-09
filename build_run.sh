@@ -1,0 +1,1 @@
+cd build && make -j && PYTHONPATH=addons ./MyPythonEmbeddedApp my_addon
